@@ -5,4 +5,4 @@
 Terima kasih telah memeriksa Profil GitHub saya! Mencari informasi lebih lanjut tentang saya? Anda dapat membaca [Blog](https://marsudiandroid.blogspot.com/) saya atau memeriksa [Portofolio](https://) saya.
 
 -  💬  Ikuti saya di [Instagram](https://www.instagram.com/marsudi11/)
-- 📫  Hubungi saya di [LinkedIn](https://www.linkedin.com/in/Marsudi/)
+- 📫  Hubungi saya di [LinkedIn](https://www.linkedin.com/in/marsudi-b203321ba/)
