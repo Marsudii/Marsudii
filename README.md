@@ -2,13 +2,11 @@
 Mau Lihat Repository ?, Kasih Star ?, Forked ?, Comment ? Bebas Asal jangan Minjem Duit 😁
 
 <p align="left">
-  <a href="https://github.com/Marsudii">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=Marsudii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  </a>
-  
-  <a href="https://github.com/Marsudii">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marsudii&layout=compact&theme=tokyonight" alt="Top Languages" />
-  </a>
+<a href="https://github.com/Marsudii">
+<img alt="GitHub Stats" src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" align="left" height="150" /></a>
+<img alt="GitHub Stats" src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" align="left" height="150" /></a>
+<img alt="GitHub Stats" src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" align="left" height="150" /></a>
+<img alt="GitHub Stats" src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" align="left" height="150" /></a>
 </p>
 
 ---
